@@ -1,0 +1,54 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iPhone Sales</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <section class="hero-image" data-aos="fade-up" data-aos-duration="1500">
+        <img src="../images/iphone/image 5.jpg" alt="iPhone Hero Image" loading="lazy" />
+    </section>
+
+    <div id="includedContent"></div>
+
+    <section class="show-categories" data-aos="zoom-out" data-aos-duration="2000">
+        <div class="cat" onclick="getValue('decoration')">
+          <a href="buttonSlider.html">
+            <img src="../images/iphone/iphone-11-pro-max-390759.jpg" alt="iPhone 11 Pro Max" class="cat-image" loading="lazy" />
+          </a>
+        </div>
+        <div class="cat" onclick="getValue('mens-shoes')">
+          <a href="buttonSlider.html">
+            <img src="../images/iphone/images (1).jpg" alt="Another iPhone Model" class="cat-image" loading="lazy" />
+          </a>
+        </div>
+        <div class="cat" onclick="getValue('sunglasses')">
+          <a href="buttonSlider.html">
+            <img src="../images/iphone/images (8).jpeg" alt="Third iPhone Model" class="cat-image" loading="lazy" />
+          </a>
+        </div>
+        <div class="cat" onclick="getValue('tops')">
+          <a href="buttonSlider.html">
+            <img src="../images/iphone/41WsaMyJAqL.jpg" alt="Fourth iPhone Model" class="cat-image" loading="lazy" />
+          </a>
+        </div>
+        <div class="cat" onclick="getValue('womens-bags')">
+          <a href="buttonSlider.html">
+            <img src="../images/iphone/715rW8UP1+L._AC_UF894,1000_QL80_.jpg" alt="Fifth iPhone Model" class="cat-image" loading="lazy" />
+          </a>
+        </div>
+        <div class="cat" onclick="getValue('womens-jewellery')">
+          <a href="buttonSlider.html">
+            <img src="../images/iphone/CXa5RGxURSNCC21B.medium.jpg" alt="Sixth iPhone Model" class="cat-image" loading="lazy" />
+          </a>
+        </div>
+    </section>
+
+    <script>
+      function getValue(category) {
+        console.log(`Category selected: ${category}`);
+      }
+    </script>
+</body>
+</html>
