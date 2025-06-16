@@ -1,6 +1,6 @@
-# Astore - Ecommerce website
+# Astore - Sales website
 
-It is clone of Astore Ecommerce website with all basic functionalities of Ecommerce website.
+It is clone of Astore website with all basic functionalities of Sales website.
 
 ## Technologies Used
 
@@ -20,7 +20,7 @@ It is clone of Astore Ecommerce website with all basic functionalities of Ecomme
 - Search: A search bar allows users to search for specific products.
 
 ## Demo
-https://sajidbhatti786.github.io/Ecommerce-website/html/index.html
+https://Richnmond.io/Sales Ecommerce-website/html/index.html
 
 ## Video
 [![Video Demo](https://drive.google.com/thumbnail?id=15bfnc0NbPXK9Y_X3okvU7Ym8zjIO-Us-)](https://drive.google.com/uc?id=15bfnc0NbPXK9Y_X3okvU7Ym8zjIO-Us-)
@@ -29,7 +29,7 @@ https://sajidbhatti786.github.io/Ecommerce-website/html/index.html
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/SajidBhatti786/Ecommerce-website.git`
+1. Clone the repository: `git clone https://github.com/Richnmond/My Sale-website.git`
 2. Open the project directory: `cd Ecommerce-website`
 3. Open the `index.html` file in your preferred web browser.
 
